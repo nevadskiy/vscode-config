@@ -1,0 +1,12 @@
+{
+    "git.autofetch": true,
+    "workbench.statusBar.feedback.visible": false,
+    "git.confirmSync": false,
+    "window.menuBarVisibility": "default",
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": false,
+    "workbench.colorTheme": "Atom One Dark",
+    "explorer.openEditors.visible": 0,
+    "window.zoomLevel": 0,
+    "editor.tabCompletion": true
+}
