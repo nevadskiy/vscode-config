@@ -14,7 +14,7 @@ Ctrl + Shift + K = Keybinding page
 ! Ctrl + P = Browse files (> = editor commands, @ = go to file symbol, # = go to workspace sympol)  
 ! Ctrl + T = Go to method in workspace (Required PHP Intelephense extension)  
 ! Ctrl + P, +P, +P = Switching between recently opened files  
-! Ctrl + Space = Call Autocomplete menu (ex. to use class namespace of entered classname)
+! Ctrl + Space = Call Autocomplete menu (ex. to use class namespace of entered classname)  
 ! Right click on function, Find All References = Show all uses of the method  
 Shift + Ctrl + E = Switching between File explorer end editor  
 Ctrl + B = Toggle sidebar  
@@ -56,3 +56,5 @@ PHP Debug: xdebug extension manager for vscode
 Vetur: Vue.JS code tooling  
 Import cost: Show JS file sizes on import\require  
 Beautify: Format JS, JSON, Sass, CSS files
+ESlint: javascript code styling
+php-cs-fixer: php code styling
