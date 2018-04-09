@@ -12,9 +12,11 @@ Ctrl + B = Toggle sidebar
 Ctrl + Alt + N = Create new file in the explorer tree  
 Shift + Ctrl + O = Go to symbol (method) in the opened file  
 Ctrl + W = Close tab  
+Ctrl + Shift + T = Open closed tab  
 Ctrl + ~ = Built-in Terminal  
 Ctrl + Shift + X = Extensions  
 Ctrl + Shift + G = Git manager  
+Ctrl + Shift + D = Debug panel
 Ctrl + LeftClick on function\class = Go to code  
 Alt + # (1, 2, ...9) = Tabs navigation  
 
@@ -42,3 +44,4 @@ Laravel Blade Snippets: helps with blade recognizing + huge snippets list
 PHP DocBlocker: php doc block creatins  
 PHP Intelephense: autocomplete, index, linter  
 Snippets creator: select text, then command >create snippet  
+PHP Debug: xdebug extension manager for vscode
