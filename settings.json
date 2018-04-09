@@ -8,5 +8,27 @@
     "workbench.colorTheme": "Atom One Dark",
     "explorer.openEditors.visible": 0,
     "window.zoomLevel": 0,
-    "editor.tabCompletion": true
+    "editor.tabCompletion": true,
+    "importCost.javascriptExtensions": [
+        "\\.vue$"
+      ],    
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "vue",
+        "vue-html",
+        "html"
+    ],
+    "sync.gist": "aad2d56c57ad376a04725909b524cc85",
+    "sync.lastUpload": "2018-04-09T17:51:31.208Z",
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.lastDownload": "",
+    "sync.forceDownload": false,
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true
 }
