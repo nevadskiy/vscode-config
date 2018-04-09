@@ -8,8 +8,8 @@ Try to not use mouse
 Use ContextMenu buttton for right click  
 
 ### Navigations:
-Ctrl + comma (,) = Settings page
-Ctrl + Shift + K = Keybinding page
+Ctrl + comma (,) = Settings page  
+Ctrl + Shift + K = Keybinding page  
 
 ! Ctrl + P = Browse files (> = editor commands, @ = go to file symbol, # = go to workspace sympol)  
 ! Ctrl + T = Go to method in workspace (Required PHP Intelephense extension)  
@@ -25,18 +25,18 @@ Ctrl + Shift + T = Open closed tab
 Ctrl + ~ = Built-in Terminal  
 Ctrl + Shift + X = Extensions  
 Ctrl + Shift + G = Git manager  
-Ctrl + Shift + D = Debug panel
+Ctrl + Shift + D = Debug panel  
 Ctrl + LeftClick on function\class = Go to code  
-Alt + # (1, 2, ...9) = Tabs navigation
+Alt + # (1, 2, ...9) = Tabs navigation  
 
 ### Editor:
-Ctrl + D, +D = Select word on cursor, select repeates
-Ctrl + Shift + L = Select all occurence (repeats)
+Ctrl + D, +D = Select word on cursor, select repeates  
+Ctrl + Shift + L = Select all occurence (repeats)  
 Ctrl + Shift + Up = Move line UP  
 Ctrl + Shift + Down = Move line down  
-Shift + DEL = Delete line
+Shift + DEL = Delete line  
 RClick on full namespaced class name, Use declaration = Add use for class and short it  
-Alt + LClick on code = Multicursor
+Alt + LClick on code = Multicursor  
 
 ### Snippets (short name + tab):  
     php:  
@@ -52,6 +52,7 @@ Laravel Blade Snippets: helps with blade recognizing + huge snippets list
 PHP DocBlocker: php doc block creatins  
 PHP Intelephense: autocomplete, index, linter  
 Snippets creator: select text, then command >create snippet  
-PHP Debug: xdebug extension manager for vscode
-Vetur: Vue.JS code tooling
-Import cost: Show JS file sizes on import\require
+PHP Debug: xdebug extension manager for vscode  
+Vetur: Vue.JS code tooling  
+Import cost: Show JS file sizes on import\require  
+Beautify: Format JS, JSON, Sass, CSS files
