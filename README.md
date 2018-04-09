@@ -45,6 +45,7 @@ Alt + LClick on code = Multicursor
         class - new class based on filename  
 
 ### Extensions:
+! Settings Sync: syncing vscode settings between machines
 Atom One Dark Theme: editor color theme  
 Better PHPUnit testing: command >Better PHPUnit  
 Laravel Artisan: command >artisan  
