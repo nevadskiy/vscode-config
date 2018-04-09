@@ -56,6 +56,6 @@ Snippets creator: select text, then command >create snippet
 PHP Debug: xdebug extension manager for vscode  
 Vetur: Vue.JS code tooling  
 Import cost: Show JS file sizes on import\require  
-Beautify: Format JS, JSON, Sass, CSS files
-ESlint: javascript code styling
-php-cs-fixer: php code styling
+Beautify: Format JS, JSON, Sass, CSS files  
+ESlint: javascript code styling  
+php-cs-fixer: php code styling  
