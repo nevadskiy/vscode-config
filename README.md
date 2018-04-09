@@ -2,10 +2,19 @@
 Config for visual studio code editor  
 ! = mark importants  
 
+
+### Recomendation:  
+Try to not use mouse  
+Use ContextMenu buttton for right click  
+
 ### Navigations:
+Ctrl + comma (,) = Settings page
+Ctrl + Shift + K = Keybinding page
+
 ! Ctrl + P = Browse files (> = editor commands, @ = go to file symbol, # = go to workspace sympol)  
 ! Ctrl + T = Go to method in workspace (Required PHP Intelephense extension)  
 ! Ctrl + P, +P, +P = Switching between recently opened files  
+! Ctrl + Space = Call Autocomplete menu (ex. to use class namespace of entered classname)
 ! Right click on function, Find All References = Show all uses of the method  
 Shift + Ctrl + E = Switching between File explorer end editor  
 Ctrl + B = Toggle sidebar  
@@ -18,17 +27,16 @@ Ctrl + Shift + X = Extensions
 Ctrl + Shift + G = Git manager  
 Ctrl + Shift + D = Debug panel
 Ctrl + LeftClick on function\class = Go to code  
-Alt + # (1, 2, ...9) = Tabs navigation  
-
-Recomendation:  
-Try to not use mouse  
-Use ContextMenu buttton for right click  
+Alt + # (1, 2, ...9) = Tabs navigation
 
 ### Editor:
-Ctrl + D, +D = Select word on cursor, select repeates  
+Ctrl + D, +D = Select word on cursor, select repeates
+Ctrl + Shift + L = Select all occurence (repeats)
 Ctrl + Shift + Up = Move line UP  
 Ctrl + Shift + Down = Move line down  
-Right click on full namespaced class name, Use declaration = Add use for class and short it  
+Shift + DEL = Delete line
+RClick on full namespaced class name, Use declaration = Add use for class and short it  
+Alt + LClick on code = Multicursor
 
 ### Snippets (short name + tab):  
     php:  
@@ -45,3 +53,5 @@ PHP DocBlocker: php doc block creatins
 PHP Intelephense: autocomplete, index, linter  
 Snippets creator: select text, then command >create snippet  
 PHP Debug: xdebug extension manager for vscode
+Vetur: Vue.JS code tooling
+Import cost: Show JS file sizes on import\require
