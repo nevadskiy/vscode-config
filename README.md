@@ -57,5 +57,8 @@ PHP Debug: xdebug extension manager for vscode
 Vetur: Vue.JS code tooling  
 Import cost: Show JS file sizes on import\require  
 Beautify: Format JS, JSON, Sass, CSS files  
+
+## TODO:
 ESlint: javascript code styling  
 php-cs-fixer: php code styling  
+DocBlocker for JS files  
