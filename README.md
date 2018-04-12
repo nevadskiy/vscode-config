@@ -63,3 +63,4 @@ ESlint: javascript code styling
 php-cs-fixer: php code styling  
 DocBlocker for JS files  
 Multi Clipboards
+Blade Ctrl+Click navigation
