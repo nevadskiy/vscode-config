@@ -30,6 +30,7 @@ Ctrl + LeftClick on function\class = Go to code
 Alt + # (1, 2, ...9) = Tabs navigation  
 
 ### Editor:
+Ctrl + Shilft + I = Format Document (cs-fixer, eslint, etc.)
 Ctrl + D, +D = Select word on cursor, select repeates  
 Ctrl + Shift + L = Select all occurence (repeats)  
 Ctrl + Shift + Up = Move line UP  
